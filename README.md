@@ -1,4 +1,4 @@
-# 使用docker-compose以ws+tls方式快速部署v2ray
+# 使用docker-compose以ws+tls方式快速部署科学上网利器v2ray
 
 
 ## 更新日志
