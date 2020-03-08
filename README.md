@@ -12,8 +12,10 @@
 
 2. 安装`docker-compose`
 
-3. 修改配置
+3. 修改v2ray配置
 
-4. 客户端配置
+4. 一键部署v2ray
+
+5. 进行v2ray客户端配置
 
 细节参考： <a href="https://www.4spaces.org/docker-compose-install-v2ray-ws-tls/" target="_blank" rel="noopener noreferrer">在docker-compose环境下以ws+tls方式搭建v2ray(So easy)</a>
