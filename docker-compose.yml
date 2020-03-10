@@ -35,6 +35,6 @@ services:
     command: v2ray -config=/etc/v2ray/config.json
     volumes:
       - ./data/v2ray:/etc/v2ray
-      - ./logs/v2ray:/var/log/v2raye
+      - ./logs/v2ray:/var/log/v2ray
     expose:
       - "30909" #开放端口给容器，不对外开放
